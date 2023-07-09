@@ -24,12 +24,14 @@
 - [**Working with Dates and Times with Day.js**](https://blog.openreplay.com/working-with-dates-and-times-with-day-js)
 - [**Using CSS Modules in React**](https://blog.openreplay.com/using-css-modules-in-react)
 [](https://celo.academy/t/creating-a-decentralized-mortgage-platform-using-celo/421/6)
-## Pieces 
-- [**React SetInterval Conflicts: How to Easily Resolve Them**](https://code.pieces.app/blog/resolving-react-setinterval-conflicts)
-- [**Introduction to UIkit**](https://code.pieces.app/blog/introduction-to-uikit)
+
 ## Medium 
 - [**An Ultimate Guide to Voice Recording with JavaScript**](https://javascript.plainenglish.io/an-ultimate-guide-to-voice-recording-with-javascript-119e505780cd)
 - [Revolutionizing Video Chat Applications: Building High-Quality Audio and Video Features with Dolby.io and Svelte](https://javascript.plainenglish.io/revolutionizing-video-chat-applications-building-high-quality-audio-and-video-features-with-dolby-i-bdde4fa41806)
 [](https://javascript.plainenglish.io/an-ultimate-guide-to-voice-recording-with-javascript-119e505780cd)
+
+## Pieces 
+- [**React SetInterval Conflicts: How to Easily Resolve Them**](https://code.pieces.app/blog/resolving-react-setinterval-conflicts)
+- [**Introduction to UIkit**](https://code.pieces.app/blog/introduction-to-uikit)
 
 
