@@ -21,7 +21,7 @@
 - [**Using CSS Modules in React**](https://blog.openreplay.com/using-css-modules-in-react)
 [](https://celo.academy/t/creating-a-decentralized-mortgage-platform-using-celo/421/6)
 ## Pieces 
-- [**React SetInterval Conflicts: How to Easily Resolve Them**](https://code.pieces.app/blog/resolving-react-setinterval-conflicts)=
+- [**React SetInterval Conflicts: How to Easily Resolve Them**](https://code.pieces.app/blog/resolving-react-setinterval-conflicts)
 - [**Introduction to UIkit**](https://code.pieces.app/blog/introduction-to-uikit)
 ## Medium 
 - [**An Ultimate Guide to Voice Recording with JavaScript**](https://javascript.plainenglish.io/an-ultimate-guide-to-voice-recording-with-javascript-119e505780cd)
