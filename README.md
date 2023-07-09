@@ -3,6 +3,10 @@
 ## CELO Academy (Blockchain) 
 - [How to Develop a Comprehensive Dapp for Travel Bookings on Celo Blockchain](https://celo.academy/t/how-to-develop-a-comprehensive-dapp-for-travel-bookings-on-celo-blockchain/328)
 - [Creating a Decentralized Mortgage Platform Using CELO](https://celo.academy/t/creating-a-decentralized-mortgage-platform-using-celo/421/6)
+
+## Semaphore
+- [**Website Scroll Comparison: Locomotive Scroll vs React Scroll Parallax**](https://semaphoreci.com/blog/locomotive-scroll-react-scroll-parallax)
+  
 ## Open Replay
 - [**Adding Parallax Scroll Animations to React**](https://blog.openreplay.com/adding-parallax-animations-to-react)
 - [**SVG vs. Canvas: A comparison**](https://blog.openreplay.com/svg-vs-canvas--a-comparison)
@@ -28,5 +32,4 @@
 - [Revolutionizing Video Chat Applications: Building High-Quality Audio and Video Features with Dolby.io and Svelte](https://javascript.plainenglish.io/revolutionizing-video-chat-applications-building-high-quality-audio-and-video-features-with-dolby-i-bdde4fa41806)
 [](https://javascript.plainenglish.io/an-ultimate-guide-to-voice-recording-with-javascript-119e505780cd)
 
-## Semaphore
-- [**Website Scroll Comparison: Locomotive Scroll vs React Scroll Parallax**](https://semaphoreci.com/blog/locomotive-scroll-react-scroll-parallax)
+
