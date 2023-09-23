@@ -6,6 +6,8 @@
 
 ## Semaphore
 - [**Website Scroll Comparison: Locomotive Scroll vs React Scroll Parallax**](https://semaphoreci.com/blog/locomotive-scroll-react-scroll-parallax)
+- [**Mastering ERC20 Token in Solidity**](https://semaphoreci.com/blog/erc20-token)
+- [**Deploying ERC20 Token With Hardhat: A Step-by-Step Guide**](https://semaphoreci.com/blog/erc20-token-hardhat)
   
 ## Open Replay
 - [**Adding Parallax Scroll Animations to React**](https://blog.openreplay.com/adding-parallax-animations-to-react)
