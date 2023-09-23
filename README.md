@@ -1,8 +1,8 @@
 # Gabriel Delight's Technical Articles.
 
 ## CELO Academy (Blockchain) 
-- [How to Develop a Comprehensive Dapp for Travel Bookings on Celo Blockchain](https://celo.academy/t/how-to-develop-a-comprehensive-dapp-for-travel-bookings-on-celo-blockchain/328)
-- [Creating a Decentralized Mortgage Platform Using CELO](https://celo.academy/t/creating-a-decentralized-mortgage-platform-using-celo/421/6)
+- [**How to Develop a Comprehensive Dapp for Travel Bookings on Celo Blockchain**](https://celo.academy/t/how-to-develop-a-comprehensive-dapp-for-travel-bookings-on-celo-blockchain/328)
+- [**Creating a Decentralized Mortgage Platform Using CELO**](https://celo.academy/t/creating-a-decentralized-mortgage-platform-using-celo/421/6)
 
 ## Semaphore
 - [**Website Scroll Comparison: Locomotive Scroll vs React Scroll Parallax**](https://semaphoreci.com/blog/locomotive-scroll-react-scroll-parallax)
