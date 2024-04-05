@@ -5,11 +5,17 @@
 - [**Creating a Decentralized Mortgage Platform Using CELO**](https://celo.academy/t/creating-a-decentralized-mortgage-platform-using-celo/421/6)
 
 ## Semaphore
+- [**Addressing Flaky Tests in Legacy Codebases: Challenges and Solutions**](https://semaphoreci.com/blog/flaky-legacy)
 - [**Website Scroll Comparison: Locomotive Scroll vs React Scroll Parallax**](https://semaphoreci.com/blog/locomotive-scroll-react-scroll-parallax)
 - [**Mastering ERC20 Token in Solidity**](https://semaphoreci.com/blog/erc20-token)
 - [**Deploying ERC20 Token With Hardhat: A Step-by-Step Guide**](https://semaphoreci.com/blog/erc20-token-hardhat)
   
 ## Open Replay
+
+- [**Mastering Navigation In React Native Apps**](https://blog.openreplay.com/mastering-navigation-in-react-native-apps/)
+- [**How To: Snapshot Testing In React Native With Jest**](https://blog.openreplay.com/how-to--snapshot-testing-in-react-native-with-jest/)
+- [**How To Use React Native Vector Icons**](https://blog.openreplay.com/how-to-use-react-native-vector-icons/)
+- [**Create Push Notifications in React Native with Notifee**](https://blog.openreplay.com/create-push-notifications-in-react-native-with-notifee/)
 - [**Adding Parallax Scroll Animations to React**](https://blog.openreplay.com/adding-parallax-animations-to-react)
 - [**SVG vs. Canvas: A comparison**](https://blog.openreplay.com/svg-vs-canvas--a-comparison)
 - [**An Ultimate Guide to Variables in So**](https://blog.openreplay.com/an-ultimate-guide-to-variables-in-solidity)[~~**l**~~](https://blog.openreplay.com/an-ultimate-guide-to-variables-in-solidity)[**idity**](https://blog.openreplay.com/an-ultimate-guide-to-variables-in-solidity)
