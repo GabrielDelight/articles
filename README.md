@@ -1,14 +1,15 @@
 # Gabriel Delight's Technical Articles.
 
-## CELO Academy (Blockchain) 
-- [**How to Develop a Comprehensive Dapp for Travel Bookings on Celo Blockchain**](https://celo.academy/t/how-to-develop-a-comprehensive-dapp-for-travel-bookings-on-celo-blockchain/328)
-- [**Creating a Decentralized Mortgage Platform Using CELO**](https://celo.academy/t/creating-a-decentralized-mortgage-platform-using-celo/421/6)
-
 ## Semaphore
 - [**Addressing Flaky Tests in Legacy Codebases: Challenges and Solutions**](https://semaphoreci.com/blog/flaky-legacy)
 - [**Website Scroll Comparison: Locomotive Scroll vs React Scroll Parallax**](https://semaphoreci.com/blog/locomotive-scroll-react-scroll-parallax)
 - [**Mastering ERC20 Token in Solidity**](https://semaphoreci.com/blog/erc20-token)
 - [**Deploying ERC20 Token With Hardhat: A Step-by-Step Guide**](https://semaphoreci.com/blog/erc20-token-hardhat)
+
+## CELO Academy (Blockchain) 
+- [**How to Develop a Comprehensive Dapp for Travel Bookings on Celo Blockchain**](https://celo.academy/t/how-to-develop-a-comprehensive-dapp-for-travel-bookings-on-celo-blockchain/328)
+- [**Creating a Decentralized Mortgage Platform Using CELO**](https://celo.academy/t/creating-a-decentralized-mortgage-platform-using-celo/421/6)
+
   
 ## Open Replay
 
@@ -35,7 +36,7 @@
 
 ## Medium 
 - [**An Ultimate Guide to Voice Recording with JavaScript**](https://javascript.plainenglish.io/an-ultimate-guide-to-voice-recording-with-javascript-119e505780cd)
-- [Revolutionizing Video Chat Applications: Building High-Quality Audio and Video Features with Dolby.io and Svelte](https://javascript.plainenglish.io/revolutionizing-video-chat-applications-building-high-quality-audio-and-video-features-with-dolby-i-bdde4fa41806)
+- [**Revolutionizing Video Chat Applications: Building High-Quality Audio and Video Features with Dolby.io and Svelte**](https://javascript.plainenglish.io/revolutionizing-video-chat-applications-building-high-quality-audio-and-video-features-with-dolby-i-bdde4fa41806)
 [](https://javascript.plainenglish.io/an-ultimate-guide-to-voice-recording-with-javascript-119e505780cd)
 
 ## Pieces 
