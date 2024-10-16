@@ -13,7 +13,8 @@
   
 ## Open Replay
 
-- [**Mastering Navigation In React Native Apps**](https://blog.openreplay.com/mastering-navigation-in-react-native-apps/)
+- [**Capturing Screenshots in React Native**](https://blog.openreplay.com/capturing-screenshots-in-react-native/)
+-  [**Mastering Navigation In React Native Apps**](https://blog.openreplay.com/mastering-navigation-in-react-native-apps/)
 - [**How To: Snapshot Testing In React Native With Jest**](https://blog.openreplay.com/how-to--snapshot-testing-in-react-native-with-jest/)
 - [**How To Use React Native Vector Icons**](https://blog.openreplay.com/how-to-use-react-native-vector-icons/)
 - [**Create Push Notifications in React Native with Notifee**](https://blog.openreplay.com/create-push-notifications-in-react-native-with-notifee/)
