@@ -1,5 +1,12 @@
 # Gabriel Delight's Technical Articles.
 
+## Solidity  (Blockchain)
+- [**Mastering ERC20 Token in Solidity**](https://semaphoreci.com/blog/erc20-token)
+- [**Deploying ERC20 Token With Hardhat: A Step-by-Step Guide**](https://semaphoreci.com/blog/erc20-token-hardhat)
+- [**How to Develop a Comprehensive Dapp for Travel Bookings on Celo Blockchain**](https://celo.academy/t/how-to-develop-a-comprehensive-dapp-for-travel-bookings-on-celo-blockchain/328)
+- [**Creating a Decentralized Mortgage Platform Using CELO**](https://celo.academy/t/creating-a-decentralized-mortgage-platform-using-celo/421/6)
+- [**A Comprehensive Guide to Gas and Gas Price in Solidity**](https://blog.openreplay.com/a-comprehensive-guide-to-gas-and-gas-price-in-solidity)
+- [**An Ultimate Guide to Variables in So**](https://blog.openreplay.com/an-ultimate-guide-to-variables-in-solidity)[~~**l**~~](https://blog.openreplay.com/an-ultimate-guide-to-variables-in-solidity)[**idity**](https://blog.openreplay.com/an-ultimate-guide-to-variables-in-solidity)
 ## Semaphore
 - [**Addressing Flaky Tests in Legacy Codebases: Challenges and Solutions**](https://semaphoreci.com/blog/flaky-legacy)
 - [**Website Scroll Comparison: Locomotive Scroll vs React Scroll Parallax**](https://semaphoreci.com/blog/locomotive-scroll-react-scroll-parallax)
