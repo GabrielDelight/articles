@@ -7,7 +7,9 @@
 - [**Creating a Decentralized Mortgage Platform Using CELO**](https://celo.academy/t/creating-a-decentralized-mortgage-platform-using-celo/421/6)
 - [**A Comprehensive Guide to Gas and Gas Price in Solidity**](https://blog.openreplay.com/a-comprehensive-guide-to-gas-and-gas-price-in-solidity)
 - [**An Ultimate Guide to Variables in So**](https://blog.openreplay.com/an-ultimate-guide-to-variables-in-solidity)[~~**l**~~](https://blog.openreplay.com/an-ultimate-guide-to-variables-in-solidity)[**idity**](https://blog.openreplay.com/an-ultimate-guide-to-variables-in-solidity)
-- - [**Decentralized Voting System (Solidity)**]([https://semaphoreci.com/blog/erc20-token](https://github.com/GabrielDelight/decentralized-voting-system/tree/main))
+- [Decentralized Voting Syttem](https://github.com/GabrielDelight/decentralized-voting-system.git)
+
+  
 
 ## Semaphore
 - [**Addressing Flaky Tests in Legacy Codebases: Challenges and Solutions**](https://semaphoreci.com/blog/flaky-legacy)
